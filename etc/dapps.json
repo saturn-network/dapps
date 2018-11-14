@@ -1,43 +1,22 @@
 [
-  {
-    "name": "Black Pearl Dividends",
-    "address": "",
-    "website": "",
-    "forum": "https://forum.saturn.network/t/black-pearl-dual-platform",
-    "logo": "https://saturn-network.github.io/dapps/etc/logo/bpd.png"
-  },
-  {
-    "name": "Crypto Tomatoes",
-    "address": "",
-    "website": "",
-    "forum": "https://forum.saturn.network/t/cryptotomatoes-idle-etc-dapp-game",
-    "logo": "https://saturn-network.github.io/dapps/etc/logo/crypto_tomatoes.png"
-  },
-  {
-    "name": "DailyDivs",
-    "address": "",
-    "website": "",
-    "forum": "https://forum.saturn.network/t/dailydivs-com-first-etc-staking-dapp-platform/",
-    "logo": "https://saturn-network.github.io/dapps/etc/logo/daily_divs.png" 
-  },
   { 
     "name": "P3C", 
-    "address": "",
-    "website": "",
+    "address": "0xdf9aac76b722b08511a4c561607a9bf3afa62e49",
+    "website": "https://p3c.io",
     "forum": "https://forum.saturn.network/t/ann-what-is-p3c-io-and-why-did-we-choose-to-launch-on-ethereum-classic",
     "logo": "https://saturn-network.github.io/dapps/etc/logo/p3c.png"
   },  
   { 
     "name": "P4C",
-    "address": "",
-    "website": "",
+    "address": "0xbf2da0c1bd90b2dafe16571a45f56ce3ace28c2b",
+    "website": "https://liber111.github.io/P4C",
     "forum": "https://forum.saturn.network/t/p4c-the-proof-of-weakhands-clone-with-uis-as-masternodes/",
     "logo": "https://saturn-network.github.io/dapps/etc/logo/p4c.png"
   },
   { 
     "name": "Proof of Community",
-    "address": "",
-    "website": "",
+    "address": "0x08f7039d36f99eedc3d8b02cbd19f854f7dddc4d",
+    "website": "https://etc.poc35.co",
     "forum": "https://forum.saturn.network/t/proof-of-community-on-etc-is-now-live/",
     "logo": "https://saturn-network.github.io/dapps/etc/logo/poc.png" 
   }
