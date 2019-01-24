@@ -19,5 +19,12 @@
     "website": "https://etc.poc35.co",
     "forum": "https://forum.saturn.network/t/proof-of-community-on-etc-is-now-live/",
     "logo": "https://saturn-network.github.io/dapps/etc/logo/poc.png" 
+  },
+  { 
+    "name": "ONEX Staking Calculator",
+    "address": "0x085b0fdf115aa9e16ae1bddd396ce1f993c52220",
+    "website": "https://onex.network/calculator.html",
+    "forum": "https://forum.saturn.network/t/onex-network-staking-dapp/3407",
+    "logo": "https://saturn-network.github.io/dapps/etc/logo/onex_staking_calculator.png" 
   }
 ]
