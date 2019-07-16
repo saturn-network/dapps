@@ -26,5 +26,12 @@
     "website": "https://onex.network/calculator.html",
     "forum": "https://forum.saturn.network/t/onex-network-staking-dapp/3407",
     "logo": "https://saturn-network.github.io/dapps/etc/logo/onex_staking_calculator.png" 
+  },
+  { 
+    "name": "POA ETC to WETC TokenBridge",
+    "address": "0x073081832B4Ecdce79d4D6753565c85Ba4b3BeA9",
+    "website": "https://wetc.app/",
+    "forum": "https://forum.saturn.network/t/wrapped-ethereum-classic-wetc/3964",
+    "logo": "https://saturn-network.github.io/dapps/etc/logo/poa.png" 
   }
 ]
